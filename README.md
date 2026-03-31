@@ -1,3 +1,4 @@
+![Banner](https://raw.githubusercontent.com/SMETAHA/SMETAHA/banner.svg)
 <div align="center">
   <img src="banner.svg" alt="SMETAHA banner" width="100%" />
 
