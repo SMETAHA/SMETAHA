@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="SMETAHA banner" width="100%" />
+  <img src="banner.svg" alt="SMETAHA banner" width="100%" />
 
   <br/>
   <br/>
